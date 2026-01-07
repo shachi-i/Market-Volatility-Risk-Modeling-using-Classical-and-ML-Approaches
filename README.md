@@ -60,7 +60,20 @@ Performance comparison against econometric models
 
 - Forecast error (MSE / MAE)
 - VaR violation rate
+- Interpretability vs accuracy trade-offs
+- Sensitivity to regime changes
 
-Interpretability vs accuracy trade-offs
+## Tech Stack
 
-Sensitivity to regime changes
+- Python
+- pandas, numpy
+- statsmodels, arch
+- scikit-learn
+- matplotlib / seaborn
+
+## Author
+
+Shachipriya Pattanayak
+Computer Science Undergraduate
+Interests: Financial Risk, Machine Learning, Quantitative AnalyticsTech Stack
+
